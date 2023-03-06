@@ -1,6 +1,6 @@
-# Audit Report
+# Audit Reports
 
-**This is Part of the Beosin's latest audit report:heart_on_fire:**
+**This is Part of the Beosin's latest audit reports:heart_on_fire:**
 
 - Smart contract security audit report - Ankr-staking.pdf
 - Smart contract security audit report - DRAC.pdf
