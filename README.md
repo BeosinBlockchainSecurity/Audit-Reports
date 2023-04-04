@@ -9,3 +9,12 @@
 - Smart contract security audit report - Lighthouse.pdf
 - Smart contract security audit report - MamaStaking.pdf
 - Smart contract security audit report - Quotafinance.pdf
+- Smart contract security audit report - Affi Network Core.pdf
+- Smart contract security audit report - AmazeWallet-nftmarket.pdf
+- Smart contract security audit report - BaddeeBakers.pdf
+- Smart contract security audit report - Changer.pdf
+- Smart contract security audit report - Debox.pdf
+- Smart contract security audit report - DIPX.pdf
+- Smart contract security audit report - FON Smart Chain.pdf
+- Smart contract security audit report - IvyMarket.pdf
+
