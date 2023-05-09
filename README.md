@@ -20,4 +20,10 @@
 - Smart contract security audit report - BtokSwap.pdf
 - Smart contract security audit report - Qolaq-mutual_aid.pdf
 - Smart contract security audit report - timefarm.pdf
+- Smart contract security audit report - Arbswap-StableSwap.pdf
+- Smart contract security audit report - Dfans.pdf
+- Smart contract security audit report - Otter-Airdrop .pdf
+- Smart contract security audit report - owlto-finance.pdf
+- Smart contract security audit report - W3Swap-Multiple-Reward-Farm.pdf
+- Smart contract security audit report -SyncSwap.pdf
 
