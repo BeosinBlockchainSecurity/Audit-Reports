@@ -26,4 +26,10 @@
 - Smart contract security audit report - owlto-finance.pdf
 - Smart contract security audit report - W3Swap-Multiple-Reward-Farm.pdf
 - Smart contract security audit report -SyncSwap.pdf
-
+- Public Blockchain Security Audit Report - PEGO Network Ver1.0.pdf
+- Public Blockchain Security Audit Report - Ronin Network Ver1.5.pdf
+- Smart contract security audit report - ADF.pdf
+- Smart contract security audit report - Betdex.pdf
+- Smart contract security audit report - DAism.pdf
+- Smart contract security audit report - NEWFI.pdf
+- Smart contract security audit report-Butter.pdf
